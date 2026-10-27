@@ -6,3 +6,7 @@
 
 # PUT 
 <img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/b540dd6d-c411-4002-8974-e3c9f81d3fb9" />
+
+# DELETE
+<img width="1917" height="1195" alt="image" src="https://github.com/user-attachments/assets/6f32b18f-b7d1-4b44-9435-ccc0bf35ed0d" />
+
